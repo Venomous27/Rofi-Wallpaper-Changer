@@ -49,6 +49,7 @@ Create file:
 
 
 Paste the provided script.
+[<kbd>📄 Open wallpaper.sh</kbd>](./Wallpaper.sh)
 
 ---
 
