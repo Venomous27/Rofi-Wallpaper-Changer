@@ -1,5 +1,5 @@
 # Rofi-Wallpaper-Changer
-#🚨 Check out the Updated Version 🚨 
+# 🚨 Check out the Updated Version 🚨 
 # ✨ Hyprland Acrylic Wallpaper Picker
 
 A custom Rofi wallpaper picker for Hyprland using awww.
