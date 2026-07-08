@@ -1,0 +1,53 @@
+/* =============================================================================
+ * colors.rasi — Universal Neutral Glass Palette
+ * Works with almost any wallpaper/theme
+ * ============================================================================= */
+
+* {
+    /* ── Core Neutral Palette ───────────────── */
+
+    base:           #121212;
+    mantle:         #161616;
+    crust:          #0f0f0f;
+
+    surface0:       #1c1c1c;
+    surface1:       #262626;
+    surface2:       #303030;
+
+    overlay0:       #707070;
+
+    subtext0:       #b0b0b0;
+    text:           #f5f5f5;
+
+    /* ── Soft Neutral Accents ───────────────── */
+
+    accent:         #d0d0d0;
+    accent2:        #ffffff;
+
+    red:            #ff7a7a;
+    yellow:         #ffd27f;
+    green:          #8fd19e;
+    blue:           #8ab4f8;
+
+    /* ── Semantic Colors ────────────────────── */
+
+    bg-main:        rgba(18, 18, 18, 0.78);
+
+    bg-alt:         rgba(22, 22, 22, 0.88);
+
+    bg-panel:       rgba(28, 28, 28, 0.88);
+
+    bg-hover:       rgba(255, 255, 255, 0.06);
+
+    bg-selected:    rgba(255, 255, 255, 0.10);
+
+    fg-main:        #f5f5f5;
+
+    fg-dim:         #bdbdbd;
+
+    fg-selected:    #ffffff;
+
+    border-col:     rgba(255, 255, 255, 0.08);
+
+    urgent-col:     #ff7a7a;
+}
