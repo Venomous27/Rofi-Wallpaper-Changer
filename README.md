@@ -5,7 +5,7 @@
 A custom Rofi wallpaper picker for Hyprland using awww.
 
 
-<img width="800" height="450" alt="Wallpaer-Changer" src="https://github.com/user-attachments/assets/4030309d-b53a-4dd0-97f3-fce86359384e" />
+<img width="800" height="450" alt="wallpaper-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/2fa95a88-225c-4869-a9e6-32cfa9cb5e17" />
 
 
 ---
